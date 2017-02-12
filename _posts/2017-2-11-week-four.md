@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Week Three
+title: Week Four
 ---
 
 ### What did I do this past week?
-I finisehd projects in my Artificial Intelligence and Programming Languages classes, and also took a quiz in the latter. As I alluded to in an earlier post, the CS workload has been pretty heavy this semester, and this past week wasn't really an exception. Fortunately, SWE was pretty light this week as there weren't any deadlines. 
+I finished projects in my Artificial Intelligence and Programming Languages classes, and also took a quiz in the latter. As I alluded to in an earlier post, the CS workload has been pretty heavy this semester, and this past week wasn't really an exception. Fortunately, SWE was pretty light this week as there weren't any deadlines. 
 
 ### What's in your way?
 Nothing really in my way except the Netflix project. The rest is just standard weekly assignmnents. I do need to make sure to keep up with the readings in Programming Languages however, as I don't want to fall behind too much.
